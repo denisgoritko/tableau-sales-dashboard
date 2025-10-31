@@ -12,7 +12,7 @@ This repository showcases an interactive dashboard built in Tableau Public. It a
 
 ##  Dashboard Preview
 
-![Sales Dashboard Preview](sales_dashboard.png)
+![Sales Dashboard Preview](sales_dashboard1.png)
 
 ##  Dashboard Overview
 
